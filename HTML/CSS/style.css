@@ -1,0 +1,34 @@
+    /* >*{<
+         color:blue;
+        background-color: gray;
+         */
+       
+
+   /* > h2,ol{ 
+          color:red;
+        background-color: black;
+    }
+    body{
+        font-family: Arial;
+    }
+    span{
+        color:black;
+    }*/
+    header{
+        background-color: black;
+        color: burlywood;
+    }
+     header.ul{
+        color: burlywood;
+     }
+     main{
+         color: chartreuse;
+         background-color: red;
+     }
+    h2+p {
+         background-color: blueviolet;
+         color: crimson;
+     }
+     {
+       
+     }
